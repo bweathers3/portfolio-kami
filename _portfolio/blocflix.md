@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+thumbnail-path: "img/Bloc Chat Screen Shot.png"
+short-description: Bloc Chat is a real time chat room designed for users who love outdoor recreational sports.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/Bloc Chat Screen Shot.png)
 
 ## Explanation
 
