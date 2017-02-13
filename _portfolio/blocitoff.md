@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: BlocJams Angular
+thumbnail-path: "img/BlocJams Angular screen shot.png"
+short-description: Build a .
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/BlocJams Angular screen shot.png)
 
 ## Explanation
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocFlix
+title: Bloc Chat
 thumbnail-path: "img/Bloc Chat Screen Shot.png"
 short-description: Bloc Chat is a real time chat room designed for users who love outdoor recreational sports.
 
